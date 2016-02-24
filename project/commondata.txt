@@ -1,0 +1,7 @@
+<data>
+<table name="table2">
+<row id="1">
+<field name="field1" value="blahblahblah">
+</row>
+</table>
+</data>
