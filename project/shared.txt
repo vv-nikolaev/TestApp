@@ -1,6 +1,6 @@
 <modules>
 <module name="module1" file="module1.txt">
 <function name="function1" file="function1.txt">
-<function name="function12 file="function2.txt">
+<function name="function2" file="function2.txt">
 </module>
 </modules>
