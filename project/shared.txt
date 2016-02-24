@@ -1,0 +1,10 @@
+<modules>
+<module name="module2" file="module2.txt">
+<function name="function3" file="function3.txt">
+<function name="function4" file="function4.txt">
+</module>
+<module name="module1" file="module1.txt">
+<function name="function1" file="function1.txt">
+<function name="function2" file="function2.txt">
+</module>
+</modules>

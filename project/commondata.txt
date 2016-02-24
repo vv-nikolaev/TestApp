@@ -1,0 +1,12 @@
+<data>
+<table name="table1">
+<row id="1">
+<field name="field1" value="blahblahblah">
+</row>
+</table>
+<table name="table2">
+<row id="1">
+<field name="field1" value="blahblahblah">
+</row>
+</table>
+</data>
