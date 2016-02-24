@@ -1,5 +1,7 @@
 <data>
-<table id="1">
-<row id="1" value="blahblahblah"/>
-</table1>
+<table name="table1">
+<row id="1">
+<field name="field1" value="blahblahblah">
+</row>
+</table>
 </data>
